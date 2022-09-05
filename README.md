@@ -5,7 +5,7 @@
 
 ### Thank you for viewing my page! :smiling_face_with_three_hearts: ###
 
-### A ambitious Computer Science student studying in Vellore Institute of Technology. 
+### A ambitious Computer Science student studying in Vellore Institute of Technology :). 
 
 ### Contact me through: ###
 * Gmail: adithya.pillai16@gmail.com
