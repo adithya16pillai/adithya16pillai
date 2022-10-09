@@ -2,9 +2,6 @@
 
 <a href="https://instagram.com/adithya.p16"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Adithya Rajesh Pillai | Instagram" width="21px"/></a> <a href="https://www.linkedin.com/in/adithya-pillai-755700246/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Adithya Pillai | LinkedIn" width="21px"/></a>
 
-
-### Thank you for viewing my page! :smiling_face_with_three_hearts: ###
-
 ### An ambitious Computer Science student studying in Vellore Institute of Technology :). 
 
 ### Programming Languages and Frameworks: 
