@@ -20,8 +20,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p0od96jyge4pikw1p7mdq2xml&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=p0od96jyge4pikw1p7mdq2xml&redirect=true)
-
 ### Contact me through: ###
 * Gmail: adithya.pillai16@gmail.com
 * Instagram: adithya.p16
