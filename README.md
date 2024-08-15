@@ -62,15 +62,9 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/adithya16pillai/adithya16pillai/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/adithya pillai">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=adithya%20pillai&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/p0od96jyge4pikw1p7mdq2xml">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p0od96jyge4pikw1p7mdq2xml&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
