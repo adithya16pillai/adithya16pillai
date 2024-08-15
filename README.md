@@ -1,16 +1,12 @@
-<h2 align="left">Hi !!! My name is Adithya Pillai and I'm a Computer Science and Engineering Student at Vellore Institute of Science, India.</h2>
+<h2 align="left">Hi !!! My name is Adithya Pillai :D </h2>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h3 align="left">👩‍💻  About Me <br> Computer Science and Engineering Student at Vellore Institute of Technology </h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>Student at</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning LLMS, GANS<br>- ⚡ In my free time BLAH BLAH</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Frontend Developer using ReactJS and NextJS <br>- 📚 I'm currently learning about LLMS, GANs, PaLMs <br>- ⚡ In my free time I like working with various AI models and delve into cybersecurity</p>
 
 ###
 
