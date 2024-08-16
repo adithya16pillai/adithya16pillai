@@ -56,18 +56,3 @@
 
 ###
 
-<div align="left">
-  <a href="adithya.pillai16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/p0od96jyge4pikw1p7mdq2xml">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=p0od96jyge4pikw1p7mdq2xml&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
