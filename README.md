@@ -15,8 +15,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white
-)" />
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
 </div>
 
 ###
