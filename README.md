@@ -4,7 +4,7 @@
 
 <h3 align="left">👩‍💻  About Me <br> Computer Science and Engineering Student at Vellore Institute of Technology </h3>
 
-###
+### 
 
 <p align="left"><br>- 🔭 I’m working as Frontend Developer using ReactJS and NextJS <br>- 📚 I'm currently learning about LLMS, GANs, PaLMs <br>- ⚡ In my free time I like working with various AI models and delve into cybersecurity</p>
 
