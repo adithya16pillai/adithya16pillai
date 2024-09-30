@@ -7,7 +7,7 @@
 ### 
 
 <p align="left"><br>- 🔭 I’m working as Frontend Developer using ReactJS and NextJS <br>- 📚 I'm currently learning about LLMS, GANs, PaLMs <br>- ⚡ In my free time I like working with various AI models and delve into cybersecurity</p>
-
+ 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
