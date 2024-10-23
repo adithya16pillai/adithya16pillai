@@ -1,6 +1,6 @@
 <h2 align="left">Hi !!! My name is Adithya Pillai :D </h2>
 
-###
+### 
  
 <h3 align="left">👩‍💻  About Me <br> Computer Science and Engineering Student at Vellore Institute of Technology </h3>
 
