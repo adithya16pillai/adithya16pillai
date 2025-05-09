@@ -6,7 +6,7 @@
 
 ### 
 
-<p align="left"><br>- 🔭 I’m working as Frontend Developer using ReactJS and NextJS <br>- 📚 I'm currently learning about LLMS, GANs, PaLMs <br>- ⚡ In my free time I like to delve into cybersecurity</p>
+<p align="left"><br>- 🔭 I’m currently working in Cybersecurity <br>- 📚 I'm currently learning LLMs, Transformers, RLHF and other GenAI Foundations! </p>
  
 ###
 
