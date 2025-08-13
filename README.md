@@ -8,7 +8,9 @@
 ### 
 
 <p align="left"><br>- 🔭 I’m currently working in Cybersecurity <br>- 📚 I'm currently learning LLMs, Transformers, RLHF and other GenAI Foundations! </p>
- 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/adithya16pillai.png" alt="Your Image Badge" />
+
 ###
 
 
