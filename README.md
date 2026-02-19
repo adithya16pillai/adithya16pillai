@@ -2,38 +2,6 @@
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
-
-<p align="left">
-I'm a <b>Computer Science graduate from VIT Vellore</b> with a strong passion for <b>Cybersecurity</b> and <b>Software Engineering</b>.  
-I love blending offensive and defensive security techniques with cutting-edge <b>AI innovation</b> to build secure and intelligent systems.  
-With over a year of hands-on internship experience, I’m focused on creating impactful solutions at the intersection of <b>digital security</b> and <b>AI-driven technology</b>.
-</p>
-
-###
-
-<p align="left">
-- 🔭 Currently working in <b>Cybersecurity</b> <br>
-- 📚 Exploring <b>LLMs</b>, <b>Transformers</b>, <b>RLHF</b>, and other <b>GenAI foundations</b> <br>
-- 🌱 Always learning and experimenting with new tech to stay ahead of the curve
-</p>
-
-###
-
-<p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/adithya16pillai.png" alt="TryHackMe Badge" />
-</p>
-
-###
-
-<h3 align="left">🛠️ Tech Stack</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,linux,bash,git,github,html,css,js,react,nodejs,mongodb,mysql,docker,aws" />
-</p>
-
-###
-
 <h3 align="left">🌐 Connect With Me</h3>
 
 <p align="left">
