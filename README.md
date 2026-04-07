@@ -10,7 +10,7 @@
 
 *Cybersecurity · Artificial Intelligence · Healthcare*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-pillai16/)
 [![CV](https://img.shields.io/badge/CV-4A4A4A?style=flat-square&logo=read-the-docs&logoColor=white)](your-cv-url)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
 
@@ -69,7 +69,7 @@ Vellore Institute of Technology &nbsp;·&nbsp; 2021–2025
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/adithya-pillai16/))
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-pillai16/)
 &nbsp;
 [![CV](https://img.shields.io/badge/View_CV-4A4A4A?style=for-the-badge&logo=read-the-docs&logoColor=white)](your-cv-url)
 &nbsp;
