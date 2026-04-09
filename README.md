@@ -1,7 +1,3 @@
-<h2 align="left">Hi, I'm Adithya Pillai 👋</h2>
-
-###
-
 <div align="center">
 
 # Adithya Rajesh Pillai
@@ -67,8 +63,3 @@ Vellore Institute of Technology &nbsp;·&nbsp; 2021–2025
 
 </div>
 
----
-
-<div align="center">
-<sub>Open to research collaborations, security discussions, and interesting problems.</sub>
-</div>
