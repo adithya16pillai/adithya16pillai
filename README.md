@@ -22,14 +22,14 @@ Currently juggling two founding engineering roles at early-stage UK startups, co
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech — Computer Science & Engineering**
 Vellore Institute of Technology &nbsp;·&nbsp; 2021–2025
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Location | Period |
 |------|---------|----------|--------|
@@ -41,7 +41,7 @@ Vellore Institute of Technology &nbsp;·&nbsp; 2021–2025
 
 ---
 
-## 🔭 Currently Working On
+## Currently Working On
 
 - **AI Safety Research** — technical safeguards and policy frameworks in AI and biosecurity
 - **Startup Engineering** — sole engineer across a SaaS product and a healthcare platform
@@ -49,13 +49,13 @@ Vellore Institute of Technology &nbsp;·&nbsp; 2021–2025
 
 ---
 
-## 🛠 Projects
+## Projects
 
 > *Coming soon — check back shortly.*
 
 ---
 
-## 📚 Resources
+## Resources
 
 > *Reading lists, write-ups, and tools — in progress.*
 
