@@ -2,9 +2,7 @@
 
 # Adithya Rajesh Pillai
 
-**Researcher · Builder · Breaker**
-
-*Cybersecurity · Artificial Intelligence · Healthcare*
+*Cybersecurity · Artificial Intelligence · Hardware*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-pillai16/)
 [![CV](https://img.shields.io/badge/CV-4A4A4A?style=flat-square&logo=read-the-docs&logoColor=white)](your-cv-url)
