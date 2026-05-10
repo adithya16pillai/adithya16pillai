@@ -47,12 +47,6 @@ Vellore Institute of Technology &nbsp;·&nbsp; 2021–2025
 
 ---
 
-## Projects
-
-> *Coming soon — check back shortly.*
-
----
-
 ## Resources
 
 > *Reading lists, write-ups, and tools — in progress.*
