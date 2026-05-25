@@ -31,7 +31,6 @@ Vellore Institute of Technology &nbsp;·&nbsp; 2021–2025
 
 | Role | Company | Location | Period |
 |------|---------|----------|--------|
-| Founding Engineer | AYUS | UK | Dec 2025 – Present |
 | Founding Engineer | Enovatin Technologies | UK | Oct 2025 – Present |
 | Cybersecurity Solutions Intern | Wipro | Reading, UK | Jan 2025 – Sep 2025 |
 | Software Developer Intern | ThoughtMinds | Kochi, India | Sep 2023 – Nov 2023 |
