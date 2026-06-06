@@ -5,7 +5,7 @@
 *Cybersecurity · Artificial Intelligence*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-pillai16/)
-[![CV](https://img.shields.io/badge/CV-4A4A4A?style=flat-square&logo=read-the-docs&logoColor=white)]([your-cv-url](https://adithya16pillai.github.io/cv.pdf))
+[![CV](https://img.shields.io/badge/CV-4A4A4A?style=flat-square&logo=read-the-docs&logoColor=white)](https://adithya16pillai.github.io/cv.pdf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adithya.pillai16@gmail.com)
 
 </div>
