@@ -2,7 +2,7 @@
 
 # Adithya Rajesh Pillai
 
-*Cybersecurity · Artificial Intelligence*
+*Software & Product · Cybersecurity · Solutions · Research*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-pillai16/)
 [![CV](https://img.shields.io/badge/CV-4A4A4A?style=flat-square&logo=read-the-docs&logoColor=white)](https://adithya16pillai.github.io/cv.pdf)
