@@ -39,10 +39,4 @@ Vellore Institute of Technology &nbsp;·&nbsp; 2021 – 2025 &nbsp;·&nbsp; Firs
 
 ---
 
-## Research Interests
-
-- **Agentic AI Safety** - drift detection, agent isolation, and multi-agent trust boundaries
-- **AI × Cybersecurity** - adversarial robustness, model supply chain integrity, MCP red-teaming
-- **Biosecurity** - AI-assisted anomaly detection in antibiotic resistance patterns and pathogen surveillance
-
 ---
