@@ -37,6 +37,3 @@ Currently sole engineer across two early-stage UK startups - one SaaS, one healt
 **B.Tech — Computer Science & Engineering**
 Vellore Institute of Technology &nbsp;·&nbsp; 2021 – 2025 &nbsp;·&nbsp; First Class Honours
 
----
-
----
