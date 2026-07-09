@@ -16,7 +16,6 @@
 
 Founding engineer and security researcher working at the intersection of **cybersecurity**, **AI safety**, and **software development**. I build production systems end-to-end and find the holes in ones that aren't secure.
 
-Currently sole engineer across two early-stage UK startups - one SaaS, one healthcare platform - while contributing to bug bounties, technical AI safety and biosecurity research.
 
 ---
 
